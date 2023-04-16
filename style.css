@@ -1,0 +1,13 @@
+body {
+  background-color: #fff;
+}
+
+.focus:focus {
+  background-color: black;
+}
+.active:active {
+  background-color: black;
+}
+.hover:hover {
+  background-color: black;
+}
